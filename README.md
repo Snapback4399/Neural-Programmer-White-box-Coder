@@ -6,6 +6,23 @@ The architecture is based on a neural network, called a _neural interpreter_, th
 
 In this repository, we provide an implementation of the neural interpreter model and some tasks that can be solved with it.
 
+# Repository Structure
+
+```bash
+Neural Interpreter (NPWC)
+|
+├── README.md
+├── requirements.txt
+├── setup.py
+├── npwc
+│   ├── __init__.py
+│   ├── functions.py
+│   ├── modules.py
+│   ├── tasks.py
+│   └── utils.py
+└── tests
+```
+
 ## Installation
 
 The library is implemented in Python 3 and requires a few dependencies:
