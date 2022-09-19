@@ -9,8 +9,7 @@ In this repository, we provide an implementation of the neural interpreter model
 # Repository Structure
 
 ```bash
-Neural Interpreter (NPWC)
-|
+NPWC
 ├── README.md
 ├── requirements.txt
 ├── setup.py
