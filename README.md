@@ -84,18 +84,11 @@ Install required dependecies in the new Python environment:
 make requirements
 ```
 
-Run tests:
-
-```bash
-make test
-```
-
 Start Jupyter server:
 
 ```bash
 make run_jupyter
 ```
-
 
 
 ## Citation
