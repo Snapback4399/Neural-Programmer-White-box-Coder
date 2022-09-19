@@ -1,7 +1,4 @@
-`Neural-Programmer-White-box-Coder/README.md`
-
-```markdown
-# Neural Programmer-White-box-Coder (NPWC)
+# Neural Programmer White Box Coder (NPWC)
 
 NPWC is a research project that focuses on bridging the gap between declarative deep learning and symbolic AI by introducing a new architecture that combines the benefits of both approaches.
 
@@ -23,7 +20,6 @@ Neural Interpreter (NPWC)
 │   ├── modules.py
 │   ├── tasks.py
 │   └── utils.py
-└── tests
 ```
 
 
